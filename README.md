@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ChuckViper
-- 👀 I’m interested in learning more about how to build tools that can help people be involved with their communities as well as safely protect people's data while collecting it for use within the community.
-- 🌱 I’m currently learning data structures and algorithms as well as how to create a secure system and what modern attacks are againt secure systems (Intro to System Security).
+- 👀 I’m interested in learning more about how to build tools that can help people be involved with their communities as well as safely protect people's data while collecting it for use within the community. I mostly make discord bots in various languages to learn the nuances, but I'm always happy to try something new.
 - 💞️ I’m looking to collaborate on projects that are based around either protecting users or interacting with users of any platform. Currently the avenues I look to achieve these two objectives are through Discord bots and system security.
 - 📫 Feel free to reach me at my personal email danielchancock@gmail.com and I'd be happy to collaborate whether it's on projects, ideas, or even just to talk and get involved with each other.
